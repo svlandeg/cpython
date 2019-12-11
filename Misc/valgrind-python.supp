@@ -186,7 +186,7 @@
 
 ###
 ### All the suppressions below are for errors that occur within libraries
-### that Python uses.  The problems to not appear to be related to Python's
+### that Python uses.  The problems do not appear to be related to Python's
 ### use of the libraries.
 ###
 
